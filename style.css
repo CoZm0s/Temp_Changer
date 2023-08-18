@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+}
+#box{
+    position: absolute;
+    background-color: #f4b41a;
+    text-align: center;
+    width: 490px;
+    height: 565px;
+    border: 2px black solid;
+}
+#templab{
+    font-size: 1.3em;
+}
+#inputfield{
+    background-color:darkslateblue;
+    color: white;
+    border: #143d59 2px solid;
+}
+#subbut{
+    margin-top: 10PX;
+    background-color: #f4b41a;
+    color: #143d59;
+    border: 3px #143d59 solid;
+}
+#answerbox{
+    text-align: center;
+}
+#result{
+    position: relative;
+    right: -195px;
+    width: 100px;
+    border: 2px #143d59 solid;
+    color: #143d59;
+    font-style:oblique;
+}
